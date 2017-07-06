@@ -11,6 +11,8 @@ Contents of Solution Package:
 						
 								*PCK.CUSTOM_MS_SQLSERVER_INSTALL_1.0.2.zip
 								
+								*sql-server-logo.png
+								
 						
 
 
@@ -24,6 +26,13 @@ Documenation and Instructions
 <li>Execute&nbsp;Transact-SQL scripts not supported by the JDBC action pack</li>
 <li>Activate the CLR in an existing Database</li>
 </ul>
+<p><strong>4 actions</strong></p>
+<ol style="list-style-type: undefined;">
+<li>-Create Instance</li>
+<li>-Enable CLR</li>
+<li>-Execute Transact-SQL Script</li>
+<li>-Set Instace Port</li>
+</ol>
 <p>This action pack has been tested with MS SQL 2014.</p>
 
 Copyright and License
